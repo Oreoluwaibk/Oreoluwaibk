@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oreoluwaibk
-- 👀 I’m interested in internship roles
-- 🌱 I’m currently learning full stack web development
+- 👀 I’m interested in frontend, full stack or mobile development opportunities 
+- 🌱 I’m a full stack and a mobile (React-native) developer
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ore.ibikunle98@gmail.com
 
